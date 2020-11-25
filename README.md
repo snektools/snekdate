@@ -1,0 +1,2 @@
+# snekdate
+snekdate is a small, simple date tool library we use for our dashboards. It is still a work in progress, we we're planning on adding multiple functions that make caching on a continuous datetime range for SQL queries simpler.

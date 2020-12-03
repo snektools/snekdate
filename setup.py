@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 DESCRIPTION = 'A small, simple date tool library we use for our dashboards.'
 HERE_PATH = os.path.dirname(os.path.abspath(__file__))
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 
 try:
@@ -21,7 +21,7 @@ setup(
     author_email='david.d.smit@gmail.com',
     packages=find_packages(),
     license='MIT',
-    url='https://github.com/RichFoley/jinjaql',
+    url='https://github.com/ddsmit/snekdate/',
     description='A small, simple date tool library we use for our dashboards.',
     long_description=DESCRIPTION,
     long_description_content_type='text/markdown',

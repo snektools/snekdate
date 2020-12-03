@@ -25,7 +25,7 @@ setup(
     description='A small, simple date tool library we use for our dashboards.',
     long_description=DESCRIPTION,
     long_description_content_type='text/markdown',
-    include_package_data=False,
+    include_package_data=True,
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',

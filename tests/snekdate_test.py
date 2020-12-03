@@ -1,6 +1,6 @@
 import pytest
 import datetime
-import snekdate
+import snekdate.snekdate as snekdate
 
 
 ############create_end_date

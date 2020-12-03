@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 DESCRIPTION = 'A small, simple date tool library we use for our dashboards.'
 HERE_PATH = os.path.dirname(os.path.abspath(__file__))
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 
 
 try:
